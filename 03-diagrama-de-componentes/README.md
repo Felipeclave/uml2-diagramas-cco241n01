@@ -58,3 +58,14 @@ Diferença: O diagrama de componentes mostra a estrutura do sistema; o de caso d
 ## Referências
 
 - [Livros, artigos ou sites consultados.]
+  
+Livros
+- BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. UML: Guia do Usuário. Elsevier.
+- 
+Sites consultados
+Object Management Group (OMG) — Especificação UML⁠
+IBM — Diagramas de Componentes⁠
+Microsoft — Criar um Diagrama de Componentes UML⁠
+
+Artigo
+- BELL, Donald. The Component Diagram. IBM Developer. Acessar artigo⁠
