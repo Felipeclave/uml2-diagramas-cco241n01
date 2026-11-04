@@ -25,21 +25,31 @@ Usado para visualizar a estrutura de um sistema e como seus componentes se conec
 | [descrição ou imagem] | [nome] | [significado] |
 
 Símbolo Nome O que representa
+
 Retângulo com ícone de componente Componente Parte do sistema
+
 Círculo (bolinha) Interface fornecida Serviço oferecido
+
 Semicírculo Interface requerida Serviço necessário
+
 Linha tracejada com seta Dependência Relação entre componentes
 
 ## Exemplo prático
 
 [Explique em poucas linhas o sistema escolhido e o que o diagrama mostra.]
-
 ![Exemplo prático do grupo](diagrama.png)
+
+Sistema escolhido: Sistema de Cinema
+O diagrama mostra os componentes do sistema de cinema, como compra de ingressos, pagamento e seleção de assentos, e como eles se comunicam para realizar a compra.
 
 
 ## Comparação com Caso de Uso, Classe e Sequência
 
 [Em que este diagrama se parece com eles e em que se diferencia.]
+
+Semelhança: Todos representam partes do sistema e ajudam a entender seu funcionamento.
+
+Diferença: O diagrama de componentes mostra a estrutura do sistema; o de caso de uso mostra as funcionalidades, o de classes mostra as classes e o de sequência mostra a ordem das interações.
 
 ## Apresentação
 
