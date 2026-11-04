@@ -1,6 +1,6 @@
 # Diagrama de Componentes
 
-**Grupo 3:** Pedro, Felipe e Eduardo Vitor
+**Grupo 3:** Felipe Velarde Hurtado Junior
 
 > Apague as instruções entre colchetes e preencha cada seção.
 
